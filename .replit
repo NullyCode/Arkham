@@ -1,0 +1,16 @@
+modules = ["python-3.12"]
+
+[nix]
+channel = "stable-24_05"
+
+[workflows]
+runButton = "Run Trading Bot"
+
+[[workflows.workflow]]
+name = "Run Trading Bot"
+author = 36272925
+mode = "sequential"
+
+[[workflows.workflow.tasks]]
+task = "shell.exec"
+args = "python main.py"
