@@ -32,6 +32,7 @@ An automated trading bot for Arkham Exchange with a PyQt6 graphical interface. T
 ### System Requirements:
 - Python 3.12 or higher
 - Operating System: Windows, macOS, Linux
+- Microsoft Visual C++ Redistributable for Windows
 
 ### Install Dependencies:
 
