@@ -1,5 +1,6 @@
-![Скриншот интерфейса](bot.png)
 # Arkham Exchange Trading Bot
+
+![Скриншот интерфейса](bot.png)
 
 An automated trading bot for Arkham Exchange with a PyQt6 graphical interface. The bot supports two trading modes: Grid Trading and Volume Trading.
 
