@@ -123,6 +123,7 @@ An advanced version of the bot is available with additional features:
 ## Support
 
 If you encounter installation difficulties or need the version with proxy support and profit/loss calculation, contact us on Telegram: https://t.me/iPartner_24
+I wouldn't refuse a donation USDT (TON blockchain, without memo): UQACxM0kJfYbWI6RrugsWJ_HXj_CzjxM5N1z84Hf83VZI1Yy
 
 ## Disclaimer
 
